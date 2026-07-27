@@ -34,7 +34,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rebecaferreira&show_icons=true&theme=radical&hide_border=true&title_color=9D4EDD&icon_color=9D4EDD" height="165"/>
+  <img src="https://github-readme-stats-sigma-nine.vercel.app/api?username=rebecaferreira&show_icons=true&theme=radical&hide_border=true" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rebecaferreira&theme=radical&hide_border=true&ring=9D4EDD&fire=9D4EDD" height="165"/>
 </p>
 
