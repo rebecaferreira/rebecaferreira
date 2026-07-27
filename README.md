@@ -4,7 +4,7 @@
 
 ### 👋 Welcome to my profile
 
-🔍 QA Engineer with almost 7 years of experience across fintech, hospitality, and manufacturing
+🔍 QA Engineer with almost 7 years of experience across fintech, hospitality, and manufacturing domains
 
 ![Status](https://img.shields.io/badge/status-remote%20contractor-9D4EDD?style=flat-square)
 ![Cert](https://img.shields.io/badge/ISTQB-CTFL%20Certified-6a0dad?style=flat-square)
@@ -17,11 +17,11 @@
 
 ⚙️ I work with test automation, exploratory testing, performance testing, and CI/CD
 
-📍 Based in Santa Catarina, Brazil — fully remote
+📍 Based in Santa Catarina, Brazil, fully remote
 
-✍️ I write and create educational content about QA through my brand [rebeQA](https://rebeqa.io) — articles, Reels, and carousels on Instagram [@rebeqa.io](https://instagram.com/rebeqa.io)
+✍️ I write and create educational content about QA through my brand [rebeQA](https://rebeqa.io): articles, Reels, and carousels on Instagram [@rebeqa.io](https://instagram.com/rebeqa.io)
 
-🛠️ Building AI-powered QA tooling, such as [ai-test-case-generator](https://github.com/rebecaferreira/ai-test-case-generator) — a GitHub Actions workflow that generates test cases from PR context
+🛠️ Building AI-powered QA tooling, such as [ai-test-case-generator](https://github.com/rebecaferreira/ai-test-case-generator): a GitHub Actions workflow that generates test cases from PR context
 
 ---
 
