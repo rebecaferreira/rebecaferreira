@@ -4,7 +4,7 @@
 
 ### 👋 Welcome to my profile
 
-🔍 QA Engineer with almost 7 years of experience across fintech, hospitality, and manufacturing domains
+🔍 QA Engineer with 7+ years of experience across fintech, hospitality, and manufacturing domains
 
 ![Status](https://img.shields.io/badge/status-remote%20contractor-9D4EDD?style=flat-square)
 ![Cert](https://img.shields.io/badge/ISTQB-CTFL%20Certified-6a0dad?style=flat-square)
